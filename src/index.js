@@ -5,6 +5,6 @@ import Game from './components/game/game';
 import Comic from './components/comic/comic';
 
 ReactDOM.render(
-    <Comic />,
+    <Game />,
     document.getElementById('root')
 );

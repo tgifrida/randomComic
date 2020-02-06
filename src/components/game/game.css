@@ -1,11 +1,15 @@
 .game {
     display: flex;
-    flex-direction: row;
-    justify-content: center;
+    align-items: flex-start;
   }
   
+  .game-board {
+    width: 124px;
+  }
+
+
   .game-info {
-    margin-left: 20px;
+    color: white;
   }
     
   ol, ul {
